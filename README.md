@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadjonsafarov](https://github.com/ahmadjonsafarov)
 
-- 📝 I regularly write articles on [https://www.instagram.com/ahmadjon._.safarov](https://www.instagram.com/ahmadjon._.safarov)
+- 📝 I regularly write articles on [https://www.instagram.com/ahmadjon._.safarov](https://www.instagram.com/ahmadjonsafaroov)
 
 - 💬 Ask me about **about flutter**
 
